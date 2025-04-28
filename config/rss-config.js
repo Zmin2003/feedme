@@ -88,7 +88,7 @@ export const config = {
   dataPath: "./data",
 }
 
-export const defaultSource = config.sources[0]
+export const defaultSource = config.sources[10]
 
 /**
  * @param {string} url
